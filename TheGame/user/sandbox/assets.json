@@ -2576,6 +2576,26 @@
 			"source": "",
 			"metadata": "fonts/hud.xml.cryasset",
 			"details": [ ]
+		},
+		{
+			"type": "Level",
+			"guid": { "guid": [ 338379374, 1411004201, 3400316110, 677877117 ] },
+			"name": "TestWithOllie",
+			"timestamp": 1485273091,
+			"files": [ "levels/TestWithOllie/TestWithOllie.cry" ],
+			"source": "",
+			"metadata": "levels/TestWithOllie/TestWithOllie.cry.cryasset",
+			"details": [ ]
+		},
+		{
+			"type": "Xml",
+			"guid": { "guid": [ 4149520164, 2613904160, 1008888267, 4147164761 ] },
+			"name": "testwithollie",
+			"timestamp": 1485273090,
+			"files": [ "Libs/environmentpresets/testwithollie.xml" ],
+			"source": "",
+			"metadata": "Libs/environmentpresets/testwithollie.xml.cryasset",
+			"details": [ ]
 		}
 	]
 }
