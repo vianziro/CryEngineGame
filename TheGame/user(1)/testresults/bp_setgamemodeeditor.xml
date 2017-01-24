@@ -1,0 +1,20 @@
+<root>
+	<thread name="Main" totalTimeMS="49.786350" startTime="341920287557" stopTime="341920394273" totalBlocks="8"> 
+		<block name="CGameEngine::SetGameMode" totalTimeMS="49.747631" startTime="341920287639" stopTime="341920394272" args=""> 
+			<block name="CAISystem::Reset" totalTimeMS="29.999826" startTime="341920316603" stopTime="341920380907" args=""> 
+			</block>
+			<block name="CCryAction::OnEditorSetGameMode" totalTimeMS="0.570101" startTime="341920390081" stopTime="341920391303" args=""> 
+				<block name="CActionGame::OnEditorSetGameMode" totalTimeMS="0.504787" startTime="341920390083" stopTime="341920391165" args=""> 
+					<block name="CFlashUI::Reload" totalTimeMS="0.065781" startTime="341920390989" stopTime="341920391130" args=""> 
+						<block name="CFlashUI::OnSystemEvent" totalTimeMS="0.000467" startTime="341920391099" stopTime="341920391100" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="CFlashUI::OnSystemEvent" totalTimeMS="0.000467" startTime="341920391294" stopTime="341920391295" args=""> 
+				</block>
+			</block>
+			<block name="CFlashUI::OnSystemEvent" totalTimeMS="0.000933" startTime="341920394239" stopTime="341920394241" args=""> 
+			</block>
+		</block>
+	</thread>
+</root>
